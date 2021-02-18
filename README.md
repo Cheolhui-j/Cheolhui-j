@@ -8,6 +8,12 @@ My major is Electric Engineering. I have been studying Computer Vision since 201
 I have project experience using Python, C++, Pytorch, Tensorflow. 
 I am very interested in Deep learning, especially Face, GAN.
 
+# Languages
+
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
+![PYTORCH](https://img.shields.io/badge/PYTORCH-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-orange?style=plastic&logo=Pytorch&logoColor=white)
+![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow?style=plastic&logo=TensorFlow&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-brightgreen?style=plastic&logo=C%2B%2B&logoColor=white)
 
 # Project
 
@@ -18,3 +24,4 @@ I am very interested in Deep learning, especially Face, GAN.
 | Structure From Motion | 2017.09 ~ 2018.09 | A project that extracts feature points from two consecutive images using Scale-Invariant Feature Transform (SIFT)  and matches the feature points to obtain a transformation relationship from two images  and derives 3D coordinates from them | Improved camera parameter matrix operation  (using Levenberg–Marquardt method). |
 | Bubble Detection | 2020.06 ~ 2020.10 | A Project to detect bubbles  using YoloV3 from the input device coating image. | Annotation type conversion,   DB construction,  bubble GT annotation,  Result improvement through validation results,  YoloV3 network learning |
 | Drone Marker Detection | 2019.03 ~ 2019.08 | A project in which the drone lands on the marker through a binary classification algorithm  that extracts features of a specific shape marker in a drone through Histogram of Gradient (HOG)  and detects it using a support vector machine (SVM). | Development of specific marker detection algorithm  using Histogram of Gradient (HOG) and support vector machine (SVM). |
+
