@@ -2,7 +2,7 @@
 
 Hello there 👋
 
-My name is Cheolhee. I'm a graduate student studying deep learning at ![Kookmin University](https://img.shields.io/static/v1?label=Kookmin_University&message=Graduate_Student&color=brightgreen&style=plastic). 
+My name is Cheolhee. I'm a graduate student studying deep learning at Kookmin University
 
 My major is Electric Engineering. I have been studying Computer Vision since 2018.
 
