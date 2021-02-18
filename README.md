@@ -27,3 +27,6 @@ I am very interested in Deep learning, especially Face, GAN.
 | Bubble Detection | 2020.06 ~ 2020.10 | A Project to detect bubbles  using YoloV3 from the input device coating image. | Annotation type conversion,   DB construction,  bubble GT annotation,  Result improvement through validation results,  YoloV3 network learning |
 | Drone Marker Detection | 2019.03 ~ 2019.08 | A project in which the drone lands on the marker through a binary classification algorithm  that extracts features of a specific shape marker in a drone through Histogram of Gradient (HOG)  and detects it using a support vector machine (SVM). | Development of specific marker detection algorithm  using Histogram of Gradient (HOG) and support vector machine (SVM). |
 
+# Contacts
+
+[![GMAIL](https://img.shields.io/badge/GMAIL-red?style=plastic&logo=Gmail&logoColor=white)](mailto:zkwmdi3626@gmail.com)
