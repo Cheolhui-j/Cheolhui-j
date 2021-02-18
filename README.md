@@ -14,7 +14,7 @@ I am very interested in Deep learning, especially Face, GAN.
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
 ![PYTORCH](https://img.shields.io/badge/PYTORCH-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-orange?style=plastic&logo=Pytorch&logoColor=white)
-![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellow?style=plastic&logo=TensorFlow&logoColor=white)
+![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-orange?style=plastic&logo=TensorFlow&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-brightgreen?style=plastic&logo=C%2B%2B&logoColor=white)
 
 # Project
